@@ -4,7 +4,7 @@ function a(e, t) {
         favicon: "https://framerusercontent.com/assets/bX6VF88EdFQjyNYGQcsEoTS7D9A.png",
         robots: "max-image-preview:large",
         socialImage: "https://framerusercontent.com/assets/WEfDj2L5zyruEuzTqsFWttSbU.png",
-        title: "Julian"
+        title: "alex"
     }
 }
 export {a};
